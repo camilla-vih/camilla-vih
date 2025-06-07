@@ -29,7 +29,8 @@
 
 ### 🎧 Ouvindo agora no Spotify
 
-[![Spotify](https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3) background_color=0d1117&border_color=ffffff&border_radius=10px]
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&cover_image=true&theme=purple&show_offline=false&background_color=121212&bar_color=bd93f9&bar_color_cover=true)](https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3)
+
 
 ---
 
