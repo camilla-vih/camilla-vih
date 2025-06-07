@@ -29,7 +29,7 @@
 
 ### 🎧 Ouvindo agora no Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=471174&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=471174&bar_color_cover=true)](https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3)
 
 ---
 
