@@ -4,7 +4,7 @@
   Desenvolvedora em formação, artista nas horas vagas, e apaixonada por tecnologia e narrativas 🌌
 </p>
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlMTYzdTRvOXI2NzB4M3IxMXM5ZGM2a3AzNzNlZHV1aTU0emZxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif](https://i.pinimg.com/736x/75/27/74/7527747dad152893fe44dd8ff0f1affa.jpg)" width="200" alt="photo" />
+  <img src="https://i.pinimg.com/736x/75/27/74/7527747dad152893fe44dd8ff0f1affa.jpg" width="800" />
 </p>
 
 ---
