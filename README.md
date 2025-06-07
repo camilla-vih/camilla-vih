@@ -4,7 +4,7 @@
   Desenvolvedora em formação, artista nas horas vagas, e apaixonada por tecnologia e narrativas 🌌
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c2/5e/26/c25e2679a72028e3fa027ef8782f79c6.jpg" width="800" />
+  <img src="https://64.media.tumblr.com/103d9c0ab4fcc899644892682923e507/7551218a2f74ebe0-2a/s1280x1920/c9832e66558549e42b5a3650653db51527880ac6.pnj" width="800" />
 </p>
 
 ---
