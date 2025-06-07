@@ -29,7 +29,7 @@
 
 ### 🎧 Ouvindo agora no Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&border_radius=10px)](https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3)
+[![Spotify](https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3background_color=0d1117&border_color=ffffff&border_radius=10px)
 
 ---
 
