@@ -21,10 +21,18 @@
 ### 📫 Find me around
 
 <p align="center">
-  <a href="mailto:camilla.silvaalb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/camilla-albuquerque-892936303/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/midiarie.art/"><img alt="Art Instagram" src="https://img.shields.io/badge/@midiarie.art-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/chokoollat/"><img alt="Personal Instagram" src="https://img.shields.io/badge/@chokoollat-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:camilla.silvaalb@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-camilla.silvaalb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/camilla-albuquerque-892936303/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/midiarie.art/">
+    <img alt="Art Instagram" src="https://img.shields.io/badge/@midiarie.art-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/chokoollat/">
+    <img alt="Personal Instagram" src="https://img.shields.io/badge/@chokoollat-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
