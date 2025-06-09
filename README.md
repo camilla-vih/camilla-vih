@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/chokoollat/">
     <img alt="Personal Instagram" src="https://img.shields.io/badge/@chokoollat-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/millaokrock">
+  <a href="#">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-millaokrock-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
