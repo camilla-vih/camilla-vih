@@ -10,18 +10,6 @@
 
 ---
 
-<h1 align="center">Hi! I'm Camilla Vitória 🦋</h1>
-
-<p align="center">
-  Aspiring developer, part-time artist, and a lover of technology and storytelling 🌌
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/eb37473e58e1ff1d73dbb0e237c6e745/84e9a7d086f680e2-b2/s1280x1920/8d65bdbdf1176c0c7a5e825a5d90cbb8bd7b1997.pnj" width="800" alt="Banner artístico"/>
-</p>
-
----
-
 ### 💻 About Me
 
 🌱 Currently studying programming, especially web development  
@@ -43,7 +31,7 @@
 
 ### 🎧 Now Playing on Spotify
 
-<p align="center">
+<p>
   <a href="https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=471174&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
