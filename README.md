@@ -27,15 +27,15 @@
   <a href="https://www.linkedin.com/in/camilla-albuquerque-892936303/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/midiarie.art" target="_blank">
-  <img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" width="100px" />
-</a>
+  <a href="https://www.instagram.com/midiarie.art/">
+    <img alt="Art Instagram" src="https://img.shields.io/badge/@midiarie.art-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/chokoollat/">
     <img alt="Personal Instagram" src="https://img.shields.io/badge/@chokoollat-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/midiarie.art" target="_blank">
-  <img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" width="100px" />
-</a>
+  <a href="https://discord.com/users/millaokrock">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-millaokrock-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -57,3 +57,4 @@
 ---
 
 <p align="center">Made with 💜 by Camilla</p>
+
