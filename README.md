@@ -42,7 +42,7 @@
 
 ### 🎧 Now Playing on Spotify
 
-<p align="center">
+<p>
   <a href="https://open.spotify.com/user/9po2oc9cvi9qdsgk53wqllsv3">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9po2oc9cvi9qdsgk53wqllsv3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=8A2BE2&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
